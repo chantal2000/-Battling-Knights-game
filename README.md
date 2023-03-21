@@ -69,10 +69,10 @@ With `knight.pos` ; or `arena.board` ; you can determine the position of the kni
 
 If you want To run the app use:
                  python run.py
+                 
+ If you want To run the test use:
 
-            To run the test use:
-
-                  python test.py
+                 python test.py
 
 Moves are read in from `moves.txt`.
 
